@@ -1,6 +1,6 @@
 <?php
 // Connexion à la base de données
-$connection = mysqli_connect("localhost", "utilisateur", "root", "gestionnaire de contacts");
+$connection = mysqli_connect("localhost", "root", "", "gestion_de_contacts");
 
 // Vérification de la connexion
 if (!$connection) {

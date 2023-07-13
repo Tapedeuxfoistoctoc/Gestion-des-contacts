@@ -1,5 +1,5 @@
 -- Création de la base de données
-CREATE DATABASE gestionnaire de contacts;
+CREATE DATABASE gestion_de_contacts;
 
 -- Utilisation de la base de données
 USE gestion_contacts;
